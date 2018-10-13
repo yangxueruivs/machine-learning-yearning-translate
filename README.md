@@ -1,12 +1,12 @@
 # machine-learning-yearning-translate
 There are already good translations. This is just for learning and a markdown version
 
-##Table of Contents
+#### 目录 Table of Contents
 
-1. Why Machine Learning Strategy
-2. How to use this book to help your team
-3. Prerequisites and Notation
-4. Scale drives machine learning progress
+1. 为什么使用机器学习 Why Machine Learning Strategy
+2. 如何使用本书来帮助你的团队 How to use this book to help your team
+3. 预备知识 Prerequisites and Notation
+4. 规模驱动的机器学习进步Scale drives machine learning progress
 5. Your development and test sets
 6. Your dev and test sets should come from the same distribution
 7. How large do the dev/test sets need to be?
