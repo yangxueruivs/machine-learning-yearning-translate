@@ -1,19 +1,20 @@
 # machine-learning-yearning-translate
-There are already good translations. This is just for learning and a markdown version
+
+Chinese translation of Andrew Ng's new book "Machine learning yearning". 已经有很多人在做同样的工作了，但我想自己试试独立完成翻译一本技术书籍的感受。 
 
 #### 目录 Table of Contents
 
 1. 为什么使用机器学习 Why Machine Learning Strategy
 2. 如何使用本书来帮助你的团队 How to use this book to help your team
 3. 预备知识 Prerequisites and Notation
-4. 规模驱动的机器学习进步Scale drives machine learning progress
-5. Your development and test sets
-6. Your dev and test sets should come from the same distribution
-7. How large do the dev/test sets need to be?
-8. Establish a single-number evaluation metric for your team to optimize
-9. Optimizing and satisficing metrics
-10. Having a dev set and metric speeds up iterations
-11. When to change dev/test sets and metrics
+4. 规模驱动的机器学习进步 Scale drives machine learning progress
+5. 验证集和测试集 Your development and test sets
+6. 验证集和测试集需要满足相同的分布 Your dev and test sets should come from the same distribution
+7. 验证/测试集的大小？ How large do the dev/test sets need to be?
+8. 建立单数评估指标以进行优化 Establish a single-number evaluation metric for your team to optimize
+9. 优化指标 Optimizing and satisficing metrics
+10. 验证集和评估指标可以加速迭代 Having a dev set and metric speeds up iterations
+11. 如何修改验证/测试集和评估指标 When to change dev/test sets and metrics
 12. Takeaways: Setting up development and test sets
 13. Build your first system quickly, then iterate
 14. Error analysis: Look at dev set examples to evaluate ideas
