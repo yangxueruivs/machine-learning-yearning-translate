@@ -1,6 +1,6 @@
 # machine-learning-yearning-translate
 
-Chinese translation of Andrew Ng's new book "Machine learning yearning". 已经有很多人在做同样的工作了，但我想自己试试独立完成翻译一本技术书籍的感受。 
+Chinese translation of Andrew Ng's new book "Machine learning yearning". 已经有很多人在做同样的工作了，但我想自己试试独立完成翻译一本技术书籍。 
 
 #### 目录 Table of Contents
 
