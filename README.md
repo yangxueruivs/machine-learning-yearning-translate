@@ -10,8 +10,8 @@ Chinese translation of Andrew Ng's new book "Machine learning yearning". 已经�
 4. 规模驱动的机器学习进步 Scale drives machine learning progress
 5. 验证集和测试集 Your development and test sets
 6. 验证集和测试集需要满足相同的分布 Your dev and test sets should come from the same distribution
-7. 验证/测试集的大小？ How large do the dev/test sets need to be?
-8. 建立单数评估指标以进行优化 Establish a single-number evaluation metric for your team to optimize
+7. 如何设置验证/测试集的大小 How large do the dev/test sets need to be?
+8. 建立用于优化的单一评估指标 Establish a single-number evaluation metric for your team to optimize
 9. 优化指标 Optimizing and satisficing metrics
 10. 验证集和评估指标可以加速迭代 Having a dev set and metric speeds up iterations
 11. 如何修改验证/测试集和评估指标 When to change dev/test sets and metrics
